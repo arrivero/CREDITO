@@ -1,0 +1,5 @@
+Line 24: Class Crystal.CrystalReport of control crFactura was not a loaded control class.
+Line 27: The property name _ExtentX in crFactura is invalid.
+Line 28: The property name _ExtentY in crFactura is invalid.
+Line 29: The property name _Version in crFactura is invalid.
+Line 30: The property name PrintFileLinesPerPage in crFactura is invalid.

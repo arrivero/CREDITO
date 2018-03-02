@@ -1,0 +1,6 @@
+Line 620: Class MSFlexGridLib.MSFlexGrid of control grdpagos was not a loaded control class.
+Line 626: The property name _ExtentX in grdpagos is invalid.
+Line 627: The property name _ExtentY in grdpagos is invalid.
+Line 628: The property name _Version in grdpagos is invalid.
+Line 629: The property name Cols in grdpagos is invalid.
+Line 630: The property name AllowUserResizing in grdpagos is invalid.
